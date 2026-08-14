@@ -36,7 +36,7 @@ Sistema desenvolvido em Java para realizar depósitos, saques e consultas de sal
 
 Tecnologias: Java, Scanner, Switch/Case, If/Else e Do/While.
 
-🔗 [Ver projeto no GitHub](COLE-O-LINK-AQUI)
+🔗 https://github.com/yasminalba/sistema-bancario-java
 
 ♈ Calculadora de Signos em Java
 Aplicação que identifica o signo do usuário a partir do dia e mês de nascimento.
