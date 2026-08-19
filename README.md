@@ -105,19 +105,23 @@ Meu objetivo é continuar evoluindo na área de tecnologia e me tornar uma **des
 
 <td width="50%" valign="top">
 
-<h3>🏦 Sistema Bancário Java</h3>
+<h2>☕ JAVA</h2>
 
-Projeto desenvolvido em Java para praticar fundamentos de programação e lógica.
-
-<b>Tecnologias:</b>
-
-`Java`
+<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
 
 <br><br>
 
-<a href="https://github.com/yasminalba/sistema-bancario-java">
+Projetos desenvolvidos durante meus estudos de **Java**, com foco em lógica de programação e fundamentos da linguagem.
 
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=000000"/>
+<br>
+
+`Java` `Programming Logic` `Algorithms`
+
+<br><br>
+
+<a href="https://github.com/yasminalba/java-projects">
+
+<img src="https://img.shields.io/badge/EXPLORE_JAVA_PROJECTS-00F0FF?style=for-the-badge&logo=java&logoColor=000000"/>
 
 </a>
 
@@ -125,19 +129,23 @@ Projeto desenvolvido em Java para praticar fundamentos de programação e lógic
 
 <td width="50%" valign="top">
 
-<h3>🌐 Projetos Web</h3>
+<h2>🎨 UX/UI</h2>
 
-Projetos e exercícios desenvolvidos durante meus estudos de HTML e CSS.
-
-<b>Tecnologias:</b>
-
-`HTML` `CSS`
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
 
 <br><br>
 
-<a href="https://github.com/yasminalba">
+Projetos de **UX/UI Design**, prototipação e criação de interfaces digitais.
 
-<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=000000"/>
+<br>
+
+`UX` `UI` `Figma` `Prototyping`
+
+<br><br>
+
+<a href="https://github.com/yasminalba/ux-ui-projects">
+
+<img src="https://img.shields.io/badge/EXPLORE_UX%2FUI_PROJECTS-00F0FF?style=for-the-badge&logo=figma&logoColor=000000"/>
 
 </a>
 
@@ -149,25 +157,49 @@ Projetos e exercícios desenvolvidos durante meus estudos de HTML e CSS.
 
 <td width="50%" valign="top">
 
-<h3>🎨 UX/UI Design</h3>
+<h2>🌐 HTML & CSS</h2>
 
-Projetos acadêmicos e estudos relacionados à criação de interfaces e experiências digitais.
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
 
-<b>Ferramentas:</b>
+<br><br>
 
-`Figma` `UX` `UI`
+Projetos e exercícios desenvolvidos durante meus estudos de **desenvolvimento web**, explorando estrutura, estilização e criação de interfaces.
+
+<br>
+
+`HTML` `CSS` `Web Design`
+
+<br><br>
+
+<a href="https://github.com/yasminalba/html-css-projects">
+
+<img src="https://img.shields.io/badge/EXPLORE_WEB_PROJECTS-00F0FF?style=for-the-badge&logo=html5&logoColor=000000"/>
+
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📊 Power BI</h3>
+<h2>📊 POWER BI</h2>
 
-Projetos e estudos envolvendo dashboards, visualização e análise de dados.
+<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 
-<b>Ferramenta:</b>
+<br><br>
 
-`Power BI`
+Projetos e estudos relacionados à **visualização de dados, dashboards e análise de informações**.
+
+<br>
+
+`Power BI` `Dashboards` `Data Visualization`
+
+<br><br>
+
+<a href="https://github.com/yasminalba/power-bi-projects">
+
+<img src="https://img.shields.io/badge/EXPLORE_POWER_BI-00F0FF?style=for-the-badge&logo=powerbi&logoColor=000000"/>
+
+</a>
 
 </td>
 
@@ -176,7 +208,6 @@ Projetos e estudos envolvendo dashboards, visualização e análise de dados.
 </table>
 
 </div>
-
 ---
 
 # 🎯 CURRENT MISSIONS
