@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,45:0D1117,75:161B22,100:A78BFA&height=190&section=header&text=YASMIN%20ALBA&fontSize=48&fontColor=A78BFA&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPER%20IN%20TRAINING&descAlignY=58&descSize=15&descColor=A78BFA"/>
@@ -124,7 +123,6 @@ Projetos desenvolvidos durante meus estudos de **Java**, com foco em lógica de 
 <img src="https://img.shields.io/badge/EXPLORE_JAVA_PROJECTS-A78BFA?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
 
 </a>
-</a>
 
 </td>
 
@@ -143,11 +141,10 @@ Projetos de **UX/UI Design**, prototipação e criação de interfaces digitais.
 `UX` `UI` `Figma` `Prototyping`
 
 <br><br>
+
 <a href="https://github.com/yasminalba/ux-ui-projects">
 
 <img src="https://img.shields.io/badge/EXPLORE_UX%2FUI_PROJECTS-A78BFA?style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
-
-</a>
 
 </a>
 
@@ -178,7 +175,6 @@ Projetos e exercícios desenvolvidos durante meus estudos de **desenvolvimento w
 <img src="https://img.shields.io/badge/EXPLORE_WEB_PROJECTS-A78BFA?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
 
 </a>
-</a>
 
 </td>
 
@@ -204,8 +200,6 @@ Projetos e estudos relacionados à **visualização de dados, dashboards e anál
 
 </a>
 
-</a>
-
 </td>
 
 </tr>
@@ -213,6 +207,7 @@ Projetos e estudos relacionados à **visualização de dados, dashboards e anál
 </table>
 
 </div>
+
 ---
 
 # 🎯 CURRENT MISSIONS
