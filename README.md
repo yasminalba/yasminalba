@@ -14,7 +14,6 @@
 
 # 👩‍💻 ABOUT ME
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Olá! Eu sou a **Yasmin**, estudante de **Engenharia de Software** e apaixonada por tecnologia.
 
