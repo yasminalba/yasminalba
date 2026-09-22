@@ -75,25 +75,6 @@ Meu objetivo é continuar evoluindo na área de tecnologia e me tornar uma **des
 
 ---
 
-# ⚡ SKILL MATRIX
-
-<div align="center">
-
-| Technology | Level |
-|:---:|:---:|
-| ☕ Java | 🟢 Básico |
-| 🌐 HTML | 🟢 Básico |
-| 🎨 CSS | 🟢 Básico |
-| 🎨 UX/UI | 🟡 Prático |
-| 📊 Power BI | 🟡 Prático |
-| 🎨 Figma | 🟡 Prático |
-| 💻 VS Code | 🟡 Prático |
-| 🐙 Git/GitHub | 🔵 Em aprendizado |
-
-</div>
-
----
-
 # 🚀 PROJECTS
 
 <div align="center">
