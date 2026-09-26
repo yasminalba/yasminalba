@@ -99,11 +99,13 @@ Projetos desenvolvidos utilizando **Inteligência Artificial como ferramenta de 
 
 ---
 
-## 🌐 Desenvolvimento Web
+### 🌐 Projetos HTML e CSS
 
-Também possuo conhecimentos em **HTML e CSS**, utilizados em projetos acadêmicos e pessoais para criação e estilização de interfaces web.
+Projetos desenvolvidos durante meus estudos de **Desenvolvimento Web**, com foco em HTML, CSS e criação de interfaces.
 
-[→ Ver projetos Web](https://github.com/yasminalba)
+O repositório reúne projetos acadêmicos e futuros projetos pessoais, acompanhando minha evolução no desenvolvimento web.
+
+[→ Ver projetos HTML e CSS](https://github.com/yasminalba/projetos-html-css)
 
 ---
 
@@ -113,6 +115,7 @@ Também possuo conhecimentos em **HTML e CSS**, utilizados em projetos acadêmic
 - 🐍 Desenvolvendo conhecimentos em **Python**
 - 💻 Praticando lógica e programação
 - 🤖 Explorando programação com IA
+- 🌐 Desenvolvendo projetos Web
 - 🚀 Desenvolvendo projetos para meu portfólio
 - 🎯 Buscando minha primeira oportunidade em **Desenvolvimento de Software**
 
