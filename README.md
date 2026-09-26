@@ -73,7 +73,7 @@ Projetos desenvolvidos durante meus estudos de **Power BI**, explorando dashboar
 - 📈 Dashboard de Vendas
 - 📊 Produto e Vendedor
 
-[→ Ver projetos Power BI](ttps://github.com/yasminalba/power-bi-projects)
+[→ Ver projetos Power BI](https://github.com/yasminalba/power-bi-projects)
 
 ---
 
